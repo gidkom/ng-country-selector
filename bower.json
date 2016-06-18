@@ -1,10 +1,10 @@
 {
-  "name": "ng-country-select",
+  "name": "ng-country-selector",
   "authors": [
     "Gideon Kombian <gidkom@yahoo.co.uk>"
   ],
   "description": "select a country for angularjs",
-  "main": "dist/ng-country-select.js",
+  "main": "dist/ng-country-selector.js",
   "keywords": [
     "country",
     "select"
