@@ -1,0 +1,24 @@
+{
+  "name": "angular-country-select",
+  "authors": [
+    "Gideon Kombian <gidkom@yahoo.co.uk>"
+  ],
+  "description": "select a country for angularjs",
+  "main": "dist/angular-country-select.js",
+  "keywords": [
+    "country",
+    "select"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.7"
+  }
+}
