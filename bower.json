@@ -10,10 +10,11 @@
     "country",
     "select",
     "angular",
+    "angularjs",
     "ng"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/gidkom/ng-country-selector",
   "ignore": [
     "**/.*",
     "node_modules",
