@@ -8,7 +8,9 @@
   "main": "dist/ng-country-selector.js",
   "keywords": [
     "country",
-    "select"
+    "select",
+    "angular",
+    "ng"
   ],
   "license": "MIT",
   "homepage": "",
