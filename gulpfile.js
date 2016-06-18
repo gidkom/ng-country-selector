@@ -6,7 +6,7 @@ var gulp  = require('gulp'),
 
 gulp.task('build-js', function() {
     return gulp.src('dist/**/*.js')
-        .pipe(concat('angular-country-select.min.js'))
+        .pipe(concat('ng-country-select.min.js'))
         .pipe(uglify())
         .pipe(gulp.dest('dist'));
 });
