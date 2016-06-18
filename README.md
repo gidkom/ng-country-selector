@@ -23,7 +23,7 @@ The directive is intended to be used as an element with an ngModel attribute whi
 
 `<ng-country-selector ng-model="country"></ng-country-selector>`
 
-The default value to which ngModel is bound it's the two-letter country code
+The default value to which ngModel is bound is it's two-letter country code
 
 ### CONTACT
 - gidkom <yoroumah@gmail.com>
