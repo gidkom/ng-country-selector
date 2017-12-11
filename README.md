@@ -6,7 +6,7 @@ AngularJS directive to countries as options for the select element.
 
 You can install the directive using [Bower](http://bower.io):
 
-`$ bower install angular-country-picker`
+`$ bower install ng-country-selector`
 
 
 Then you have to include it in your HTML:
